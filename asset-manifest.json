@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gabriel4420.github.io/csb-9qzcnn/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gabriel4420.github.io/csb-9qzcnn/static/js/main.f4b5ce28.chunk.js",
+    "main.js.map": "https://gabriel4420.github.io/csb-9qzcnn/static/js/main.f4b5ce28.chunk.js.map",
+    "runtime-main.js": "https://gabriel4420.github.io/csb-9qzcnn/static/js/runtime-main.84b83823.js",
+    "runtime-main.js.map": "https://gabriel4420.github.io/csb-9qzcnn/static/js/runtime-main.84b83823.js.map",
+    "static/js/2.79f1dced.chunk.js": "https://gabriel4420.github.io/csb-9qzcnn/static/js/2.79f1dced.chunk.js",
+    "static/js/2.79f1dced.chunk.js.map": "https://gabriel4420.github.io/csb-9qzcnn/static/js/2.79f1dced.chunk.js.map",
+    "index.html": "https://gabriel4420.github.io/csb-9qzcnn/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gabriel4420.github.io/csb-9qzcnn/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.79f1dced.chunk.js.LICENSE.txt": "https://gabriel4420.github.io/csb-9qzcnn/static/js/2.79f1dced.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84b83823.js",
+    "static/js/2.79f1dced.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f4b5ce28.chunk.js"
+  ]
+}
